@@ -1,0 +1,20 @@
+# C++
+cmake-build-debug/
+cmake-build-release/
+*.o
+*.a
+
+# Java/IntelliJ
+out/
+*.class
+
+# .NET
+bin/
+obj/
+
+# macOS
+.DS_Store
+._*
+
+# Node
+node_modules/
