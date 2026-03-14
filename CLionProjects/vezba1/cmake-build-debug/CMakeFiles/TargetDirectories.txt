@@ -1,0 +1,3 @@
+/Users/lukadimi/CLionProjects/vezba1/cmake-build-debug/CMakeFiles/vezba1.dir
+/Users/lukadimi/CLionProjects/vezba1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lukadimi/CLionProjects/vezba1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

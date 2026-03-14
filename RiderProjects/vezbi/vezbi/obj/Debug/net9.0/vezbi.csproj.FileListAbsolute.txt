@@ -1,0 +1,4 @@
+/Users/lukadimi/RiderProjects/vezbi/vezbi/obj/Debug/net9.0/vezbi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukadimi/RiderProjects/vezbi/vezbi/obj/Debug/net9.0/vezbi.AssemblyInfoInputs.cache
+/Users/lukadimi/RiderProjects/vezbi/vezbi/obj/Debug/net9.0/vezbi.AssemblyInfo.cs
+/Users/lukadimi/RiderProjects/vezbi/vezbi/obj/Debug/net9.0/vezbi.csproj.CoreCompileInputs.cache

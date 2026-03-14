@@ -1,0 +1,14 @@
+/Users/lukadimi/RiderProjects/hhhhhhd/hhhhhhd/bin/Debug/net9.0/hhhhhhd
+/Users/lukadimi/RiderProjects/hhhhhhd/hhhhhhd/bin/Debug/net9.0/hhhhhhd.deps.json
+/Users/lukadimi/RiderProjects/hhhhhhd/hhhhhhd/bin/Debug/net9.0/hhhhhhd.runtimeconfig.json
+/Users/lukadimi/RiderProjects/hhhhhhd/hhhhhhd/bin/Debug/net9.0/hhhhhhd.dll
+/Users/lukadimi/RiderProjects/hhhhhhd/hhhhhhd/bin/Debug/net9.0/hhhhhhd.pdb
+/Users/lukadimi/RiderProjects/hhhhhhd/hhhhhhd/obj/Debug/net9.0/hhhhhhd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukadimi/RiderProjects/hhhhhhd/hhhhhhd/obj/Debug/net9.0/hhhhhhd.AssemblyInfoInputs.cache
+/Users/lukadimi/RiderProjects/hhhhhhd/hhhhhhd/obj/Debug/net9.0/hhhhhhd.AssemblyInfo.cs
+/Users/lukadimi/RiderProjects/hhhhhhd/hhhhhhd/obj/Debug/net9.0/hhhhhhd.csproj.CoreCompileInputs.cache
+/Users/lukadimi/RiderProjects/hhhhhhd/hhhhhhd/obj/Debug/net9.0/hhhhhhd.dll
+/Users/lukadimi/RiderProjects/hhhhhhd/hhhhhhd/obj/Debug/net9.0/refint/hhhhhhd.dll
+/Users/lukadimi/RiderProjects/hhhhhhd/hhhhhhd/obj/Debug/net9.0/hhhhhhd.pdb
+/Users/lukadimi/RiderProjects/hhhhhhd/hhhhhhd/obj/Debug/net9.0/hhhhhhd.genruntimeconfig.cache
+/Users/lukadimi/RiderProjects/hhhhhhd/hhhhhhd/obj/Debug/net9.0/ref/hhhhhhd.dll
